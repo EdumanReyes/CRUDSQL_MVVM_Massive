@@ -1,0 +1,13 @@
+C:\Users\eduar\source\repos\Crud.MVVM\Crud.Model\bin\Debug\Crud.Model.dll
+C:\Users\eduar\source\repos\Crud.MVVM\Crud.Model\bin\Debug\Crud.Model.pdb
+C:\Users\eduar\source\repos\Crud.MVVM\Crud.Model\obj\Debug\Crud.Model.csproj.AssemblyReference.cache
+C:\Users\eduar\source\repos\Crud.MVVM\Crud.Model\obj\Debug\Crud.Model.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\Crud.MVVM\Crud.Model\obj\Debug\Crud.Model.dll
+C:\Users\eduar\source\repos\Crud.MVVM\Crud.Model\obj\Debug\Crud.Model.pdb
+C:\Users\eduar\source\repos\Crud.MVVM_WCF\Crud.Model\bin\Debug\Crud.Model.dll.config
+C:\Users\eduar\source\repos\Crud.MVVM_WCF\Crud.Model\bin\Debug\Crud.Model.dll
+C:\Users\eduar\source\repos\Crud.MVVM_WCF\Crud.Model\bin\Debug\Crud.Model.pdb
+C:\Users\eduar\source\repos\Crud.MVVM_WCF\Crud.Model\obj\Debug\Crud.Model.csproj.AssemblyReference.cache
+C:\Users\eduar\source\repos\Crud.MVVM_WCF\Crud.Model\obj\Debug\Crud.Model.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\Crud.MVVM_WCF\Crud.Model\obj\Debug\Crud.Model.dll
+C:\Users\eduar\source\repos\Crud.MVVM_WCF\Crud.Model\obj\Debug\Crud.Model.pdb
