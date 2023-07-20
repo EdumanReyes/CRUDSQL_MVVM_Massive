@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\eduar\source\repos\WCF_ServiceCRUD\NuestroWCF\bin\app.publish\</_PublishTargetUrl>
+    <History>True|2023-07-19T15:21:32.2364261Z;True|2023-07-13T13:00:35.4516989-06:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Dapper.dll">
+      <publishTime>06/20/2023 06:36:10</publishTime>
+    </File>
+    <File Include="bin/NuestroWCF.dll">
+      <publishTime>07/19/2023 09:21:31</publishTime>
+    </File>
+    <File Include="bin/NuestroWCF.pdb">
+      <publishTime>07/19/2023 09:21:31</publishTime>
+    </File>
+    <File Include="Service1.svc">
+      <publishTime>07/12/2023 12:50:18</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>07/13/2023 13:00:35</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
